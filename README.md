@@ -17,3 +17,22 @@ We will construct a neural network from scratch using only fundamental Python li
 - **Backward Propagation**: The backpropagation algorithm will be explained in detail, showing how gradients are calculated for updating the model parameters (weights and biases). 
 
 - **Loss Function**: We will use categorical cross-entropy as the loss function, which measures the difference between predicted probabilities and true labels.
+
+## ## Requirements
+
+- Python 3.7 and above
+- numpy
+- Jupyter Lab (for running the code in a notebook environment)
+- pandas
+
+## Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/Arsalanzabeeb786/neural-net-from-scratch.git
+   
+
+## Try this note book at Kaggle : 
+```sh
+https://www.kaggle.com/code/arsalanzabeeb/neural-net-from-scratch 
